@@ -9,3 +9,4 @@ class RepositoriesController < ApplicationController
     redirect_to '/'
   end
 end
+
